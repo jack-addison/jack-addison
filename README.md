@@ -1,6 +1,84 @@
-# 💫 About Me:
-### 👋 Hi there, I'm Jack Addison  <br><br>💻 **I'm currently working on** a project that clusters and analyses App Store data to find hidden trends and “quick-win” product ideas.  <br><br>🤝 **I'm looking to collaborate on** open-source data tools, dashboards, or anything AI/ML-related that helps make sense of real-world data.  <br><br>🧩 **I'm looking for help with** improving my model evaluation pipeline and setting up automated data refreshes.  <br><br>📚 **I'm currently learning** advanced machine learning techniques, data visualisation with Plotly, and cloud deployment on AWS.  <br><br>💬 **Ask me about** Python, data scraping, app analytics, or building AI-assisted coding environments.  
+# About Me
 
+###  Hi there, I'm Jack Addison  
+
+🎓 Final-year **BSc Mathematics & Computer Science** student at **Queen’s University Belfast**, with a strong interest in **interpretable machine learning, data science, and applied research**.
+
+---
+
+## 💻 I'm currently working on
+- **Interpretable Protective Antigen Classifier**  
+  A bioinformatics + ML project focused on identifying vaccine candidate antigens from protein sequence–derived features, with an emphasis on **model interpretability and biological insight** rather than black-box accuracy.
+
+- **App Store Data Mining & Scraping Platform**  
+  A large-scale pipeline that scrapes, stores, and analyses App Store metadata to uncover **hidden market structure, clustering effects, and “quick-win” product ideas**, supported by interactive dashboards.
+
+---
+
+## 🔬 Selected Projects
+
+### 🧬 Interpretable Protective Antigen Classifier
+- Supervised ML model to classify **protective vs non-protective antigens**
+- Feature engineering from protein sequences (physicochemical & compositional properties)
+- Focus on **explainability**: feature importance and biologically meaningful signals
+- Motivated by real-world **vaccine discovery** and trust in ML for biology
+
+---
+
+### 🧠 Topological Data Analysis (TDA) with Ball Mapper
+- Applied **Ball Mapper** to UK health and deprivation datasets
+- Explored **nonlinear structure and unusual relationships** missed by standard clustering
+- Designed multiple feature–colour configurations to probe public health patterns
+- Emphasis on **exploratory data analysis for policy and health insights**
+
+---
+
+### 📐 Numerical Analysis & Differential Equations
+- Implemented **Euler, Improved Euler, and RK4** methods for solving ODEs
+- Analysed **error behaviour and convergence rates** across step sizes
+- Combined mathematical theory with clean, reproducible code and visualisation
+- Strong focus on **method comparison and numerical stability**
+
+---
+
+### 📱 App Store Scraper & Analytics Engine
+- End-to-end data pipeline (scraping → storage → analysis)
+- Feature engineering on app metadata (categories, ratings, pricing, updates)
+- Clustering, dimensionality reduction, and dashboard-driven insight generation
+- Built to support **data-driven product discovery**
+
+---
+
+## 🤝 I'm looking to collaborate on
+- Open-source **data analysis tools**
+- **ML interpretability** and explainable AI projects
+- Research-driven dashboards and visual analytics
+- Applied AI projects with real-world datasets
+
+---
+
+## 🧩 I'm looking for help with
+- Improving **model evaluation pipelines**
+- Scalable experiment tracking
+- Automated data refresh & reproducibility
+- Turning research prototypes into robust tools
+
+---
+
+## 📚 I'm currently learning
+- Advanced machine learning & model interpretation
+- Topological data analysis
+- Interactive visualisation (Plotly / dashboards)
+- Research-grade Python workflows
+
+---
+
+## 💬 Ask me about
+- Python, ML, and data engineering
+- Bioinformatics-inspired feature engineering
+- Numerical methods and applied mathematics
+- App analytics and large-scale scraping
+- Turning messy real-world data into insight
 
 
 
